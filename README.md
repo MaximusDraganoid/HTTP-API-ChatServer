@@ -1,5 +1,5 @@
 # HTTP-API-ChatServer
-it is my try to write http api to chat server
+it is my try to write http api to chat server  
 Попытка написать API для чат сервер. Приблизительное задание выглядит следующим образом ( в дальнейшем задание будет усложняться, соответственно описание увеличиваться.
 
 Тестовое задание на позицию стажера-бекендера
